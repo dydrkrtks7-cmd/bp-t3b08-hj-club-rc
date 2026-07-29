@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://hwagok-club-note.roomlab-dangsan.xyz/sitemap.xml
